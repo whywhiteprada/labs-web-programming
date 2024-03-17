@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #333;
+}
+
+p {
+    text-indent: 20px;
+}
+
+.title {
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+
+table {
+    border-collapse: collapse;
+    border: 1px dashed rgb(140 140 140);
+    width: 100%;
+}
+
+.other {
+    border: 2px solid rgb(0, 0, 0);
+    color: white;
+}
+#hitrost1 {
+  border: 2px solid white;
+}
+
+th, td {
+    font-weight: normal;
+    padding: 8px 10px;
+}
+
+thead {
+    text-align: left;
+    color: red;
+}
+
+
+tbody {
+    text-align: left;
+}
+tbody th, td {
+  border: 1px dashed rgb(160 160 160);
+}
+
+tfoot {
+    text-align: right;
+}
