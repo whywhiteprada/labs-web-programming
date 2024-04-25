@@ -1,0 +1,64 @@
+
+.ol_0 {
+    list-style-type: lower-alpha;
+}
+
+.ol_1 {
+    list-style-type: square;
+}
+
+.ol_2 {
+    list-style-type: armenian;
+}
+
+.ol_3 {
+    list-style-type: none;
+}
+
+.b-blue {
+    background: blue;
+} 
+
+.myBox {
+	width: 50px;
+	height: 50px;
+	padding: 10px 190px 50px 30px;
+
+    background: rgb(189, 189, 189) url(https://cdn.fishki.net/upload/post/2018/01/06/2476212/3-00.jpg?raw=true) 100px / contain no-repeat;
+
+}
+
+.card {
+	width: 150px;
+	height: 240px;
+	border: 1px solid black;
+	text-align: center;
+	line-height: 240px;
+	border-radius: 5px;
+	font-size: 1.5rem;
+}
+.card:after {
+	font-size: 80%;
+	font-weight: bold;
+}
+
+.spades,
+.spades:after {
+	content: "♤";
+	color: black;
+}
+
+.heart,
+.heart:after {
+	content: "♡";
+	color: red;
+}
+
+#button1 {
+	background-color: #4caf50; /* Green */
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	display: inline-block;
+	border-radius: 5px;
+}

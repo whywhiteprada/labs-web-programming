@@ -1,0 +1,25 @@
+h2{
+    font-size: 0.8em;
+}
+h3{
+    font-size: 0.8rem;
+}
+#my-first-div,
+#the-second-one{
+    padding: 10px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.button {
+    text-decoration: none;
+    padding: 10px;
+    background-color: orange;
+    border-radius: 4px;
+    color: white;
+}
+
+a:hover {
+    background-color: darkorange;
+}
+

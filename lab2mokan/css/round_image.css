@@ -1,0 +1,26 @@
+.image {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+a {
+    border: solid 5px;
+    border-color: #aaa #000 #000 #aaa;
+}
+
+a:active {
+    border-color: #000 #aaa #aaa #000;    
+}
+
+.button {
+    padding: 5px 7px;
+    background-color: rgb(0, 255, 21);
+    border: 2px solid;
+    border-color: #aaa #000 #000 #aaa;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    user-select: none;
+}

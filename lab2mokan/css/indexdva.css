@@ -1,0 +1,6 @@
+body {
+    background-color: blue;
+    background: url(../image/mosaic.jpg);
+    background-size: contain;
+    background-repeat: repeat;
+}

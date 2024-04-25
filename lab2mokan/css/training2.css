@@ -1,0 +1,23 @@
+/** Пишем код здесь **/
+tr:nth-child(odd) {
+    background-color: yellow;
+}
+
+ol li:nth-child(2) {
+    background-color: green;
+}
+
+ul li {
+    color: red !important; /* переопределяем цвет текста на красный с помощью !important */
+}  
+/********** READ-ONLY BLOCK ******
+Не изменять код ниже**/
+
+body {
+	color: blue;
+}
+
+ul li,
+ol li {
+	color: green;
+}

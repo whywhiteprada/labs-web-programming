@@ -1,0 +1,32 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+
+body {
+    background-image: url(https://github.com/erv1988/Web-development-tasks-v2024/blob/master/02/img/background-vertical.jpg?raw=true);
+    background-repeat: repeat-y;
+    padding-left: 20px;
+}
+
+.text {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+.white {
+    background-color: rgba(255,255,255,0.2);
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px 5px 5px 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color:green;
+}
